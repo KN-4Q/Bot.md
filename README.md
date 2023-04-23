@@ -1,20 +1,22 @@
-! - префикс бот
+| - prefix 
 
-!tps - показывает тпс сервера
+|tps - show the server tps
 
-!debug - показывает сколько хп и голода у бота
+|debug - health and hungry
 
-!op - дает статус опереатора
+|op - now you have op status
 
-!come - бот будет идти за вами
+|come - makes the bot walk to your position
 
-!ip - ip сервера на котором вы играете
+|ip - ip server
 
-!coords - показывает корды бота
+|coords - coords of bot
 
-!kit - дает вам 1 рандомный кит(pvp, pve, wither, tnt, totems)
+|kit - free kits(pvp, pve, wither, tnt, totems)
 
-!ban - ban игрока 
+|ban - ban игрока 
 
-!discord - дискорд сервера
+|discord - discord of creator
+
+
 
