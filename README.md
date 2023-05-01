@@ -12,11 +12,7 @@
 
 |coords - coords of bot
 
-|kit - free kits(pvp, pve, wither, tnt, totems)
-
-|ban - ban игрока 
+|kit - free kits(pvp, pve, wither, tnt, totems) 
 
 |discord - discord of creator
-
-
 
